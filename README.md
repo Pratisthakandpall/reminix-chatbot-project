@@ -1,16 +1,4 @@
-﻿# AI Chatbot with Contextual Memory (LangChain + Azure OpenAI)
+# 🤖 Reminix – Intelligent Chatbot with Contextual Memory
 
-This is an intelligent chatbot using Azure OpenAI's GPT and LangChain with conversational memory.
+A smart AI chatbot built using OpenAI + LangChain with contextual memory support. Designed to handle multi-turn conversations and deliver human-like responses.
 
-## Features
-- Contextual memory across turns
-- Built with LangChain and Azure OpenAI
-- Easy to run locally
-
-## Setup
-
-1. Clone the repo
-2. Add .env file with API keys
-3. Run:
-```bash
-python app.py
