@@ -23,12 +23,12 @@ Inspired by the need for more natural chatbot conversations, Reminix combines cu
 
 Tool / Tech	Purpose
 
-Python	      Core programming language
-OpenAI API	  Powers intelligent responses
-LangChain	    Enables memory and chaining in conversations
-Azure	Cloud   hosting platform
-VS Code	      Code editor
-.env	        To store API keys and config
-Git & GitHub	Version control and repository hosting
+-Python	     
+-OpenAI API	  
+-LangChain	   
+-Azure	Cloud   
+-VS Code	      
+-.env	        
+-Git & GitHub	
 
 
